@@ -1,0 +1,145 @@
+List of new lines:
+
+Scale = 1:34
+
+Richmond-Charlottesville (OK)
+
+Richmond-Lynchburg-Knoxville (OK)
+Salisbury,NC-Knoxville (OK)
+Knoxville-Chattanooga (OK)
+
+Fayetteville-Wilmington,NC (OK)
+
+Richmond-Raleigh Express (OK)
+
+Charlotte-Columbia,SC (OK)
+Columbia,SC-Charleston (OK)
+Atlanta-Augusta,Columbia - Two missing segments (OK)
+
+Atlanta-Chattanooga (OK)
+Atlanta-Macon-Savannah (OK)
+Atlanta-Macon-Sunset Line (OK)
+Atlanta-Montgomery (OK)
+
+Chattanooga-Birmingham (OK)
+Chattanooga-Decatur-Memphis-Little Rock (OK)
+Chattanooga-Nashville-Evansville (OK)
+Chattanooga-Nashville-Memphis (OK)
+Chattanooga-Lexington-Cincinnati (OK)
+
+Indianapolis-Cincinnati (OK)
+Cincinnati-Louisville (OK)
+
+Lexington-Louisville-St Louis (OK)
+Indianapolis-St Louis (OK)
+
+Indianapolis-Lousiville-Nashville-Decatur-Birmingham-Mongomery-Sunset Line (OK)
+
+Sunset Line (OK)
+
+New Orlenas-Shreveport-Marshall (OK)
+Meridian-Shreveport-Marshall (OK)
+
+Jacksonville-Miami(OK)
+Tampa Routes (OK)
+
+
+--------------
+
+Champaign-Springfield (OK)
+Peoria Branch (OK)
+
+Dubuque Branch (OK)
+
+Green Bay Branch (OK)
+Milwaukee-Madison (OK)
+
+Kalmazoo-Grand Rapids (OK)
+Grand Rapids-Lansing-Detroit (OK)
+Detroit-Saginaw (OK)
+
+Detroit-Toledo (OK)
+Toledo-Columbus (OK)
+Toledo-Dayton-Cincinnati (OK)
+Pittsburgh-Youngstown-Columbus (OK)
+Pittsburgh-Steubenville-Columbus-Dayton (OK)
+Cleveland-Columbus (OK)
+
+Dayton-Muncie-Indanapolis (OK)
+"Inside Lakeshore" (OK)
+Fort Wayne-Muncie (OK)
+
+---------------
+
+Delaware Line (OK)
+
+Harrisburg-Reading (OK)
+Reading-NYC (OK)
+Philly-Reading (OK)
+Reading-Scranton (OK)
+NYC-Scranton (OK)
+Lower Upstate NY Line (OK)
+
+New Hampshire Line (OK)
+
+Bangor Line (OK)
+
+------------
+
+Houston-Brownsville (OK)
+Houston-Marshall (OK)
+Houston-Waco/Bryan (OK)
+
+Waco/Bryan-Dallas (OK)
+Fort Worth-Odesa (OK)
+
+Waco/Bryan-Lubbock (OK)
+Lubbock-Albuqure (OK)
+Lubbock-La Junta (OK)
+
+Albuqurque-El Paso (OK)
+
+Pueblo-Trinidad
+Pueblo-Denver
+
+San Antonio-Laredo (OK)
+San Antonio-Corpus Cristi (OK)
+
+Little Rock-Tulsa-OKC (OK)
+OKC-Newton (OK)
+Tulsa-Springfield-St Louis (OK)
+Tulsa-KC (OK)
+Fort Smith-Fayetteville (OK)
+
+------------------------
+
+Twin Cities-Duluth (OK)
+Twin Cities-Mason City (OK)
+Mason City-KC (OK)
+Mason City-"Upper Iowa Line" (OK)
+
+"Upper Iowa Line" (OK)
+
+KC-Omaha-Twin Cities (OK)
+
+----------------------
+
+Fargo-Billings-Spokane (OK)
+
+Billings-Denver-Pueblo (OK)
+
+Lincoln-Cheyene (OK)
+Cheyene-Salt Lake N (OK)
+Salt Lake N-Wells Jct (OK)
+
+Las Vegas-Utah (OK)
+Bakersfield-LA (OK)
+Bakersfield-Las Vegas (OK)
+
+AZ routes (OK)
+
+Salt Lake City-Oregan (Pioneer) (OK)
+Seattle-Pasco (OK)
+Eugene-South Oregan (OK)
+
+
