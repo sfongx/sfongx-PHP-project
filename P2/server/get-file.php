@@ -4,7 +4,7 @@
 	* Date: 12/12/2017
 	* Author: Sherwin Fong
 	*
-	* Project 5, P2
+	* PHP-Project, P2
 	* Description: PHP code to handle displaying files. When clicking
 		on a file link, the user will be sent to a url ending in
 		"get-file.php?name=...", with name being a	tiger128,3 hash
@@ -15,7 +15,7 @@
 # figure out the location of the json file written out, and the location
 # of the uploaded files. Save the home address and suppress errors so
 # they do not show up in the browser.
-# only done when testing on UMBC gl server
+# only done when testing on school servers
 //error_reporting(E_ERROR);
 //$path = preg_replace('/\/swe2017\/(\w+)\/.*/', '/\1/read-write/', getcwd());
 //$dataFile = $path . 'fileData.json';

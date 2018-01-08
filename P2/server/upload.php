@@ -4,7 +4,7 @@
 	* Date: 12/12/2017
 	* Author: Sherwin Fong
 	*
-	* Project 5, P2
+	* PHP-Project, P2
 	* Description: PHP code to handle file uploads. Upon uploading a file,
 		the user will be sent to this page showing what files could and
 		could not be uploaded, with a link to each of them and
@@ -14,7 +14,7 @@
 # figure out the location of the json file written out, and the location
 # of the uploaded files. Save the home address and suppress errors so
 # they do not show up in the browser.
-# only done when testing on UMBC gl server
+# only done when testing on school server
 //error_reporting(E_ERROR);
 //$path = preg_replace('/\/swe2017\/(\w+)\/.*/', '/\1/read-write/', getcwd());
 //$dataFile = $path . 'fileData.json';

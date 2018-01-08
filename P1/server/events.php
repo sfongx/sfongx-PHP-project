@@ -4,7 +4,7 @@
 	* Date: 12/8/2017
 	* Author: Sherwin Fong
 	*
-	* Project 5, P1
+	* PHP-Project, P1
 	* Description: The PHP code to handle AJAX requests every time
 		the calendar is modified. Much of this code is lifted from
 		433-JS-Project/P2/server/shout.php, but we needed to define how to

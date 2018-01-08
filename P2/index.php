@@ -6,7 +6,7 @@
 		page in the browser),
 		Sherwin Fong (PHP code, modified HTML tags so JS can target them)
 	*
-	* Project 5, P2
+	* PHP-Project, P2
 	* Description: The main index.php file provided with PHP code I added.
 		It shows the files upload and options to upload new files, as well as 
 		handle file deletion. The file upload and file viewing functionalities
@@ -46,7 +46,7 @@
 				# figure out the location of the json file written out, and the
 				# location of the uploaded files.
 				# Suppress errors so they do not show up in the browser.
-				# only done when testing on UMBC gl server
+				# only done when testing on school servers
 				//error_reporting(E_ERROR);
 				//$path = preg_replace('/\/swe2017\/(\w+)\/.*/', '/\1/read-write/', getcwd());
 				//$dataFile = $path . 'fileData.json';
