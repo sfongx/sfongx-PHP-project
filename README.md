@@ -14,3 +14,6 @@ buttons, etc.), while PHP was used to handle file uploads, viewing, deletion,
 and file display order on the home page.
 
 Note that these are meant to run on localhost with full read/write permissions.
+
+Disclaimer: This is a school project. If the same project is assigned in future
+semesters please do not copy this as it would be a violation of academic integrity
